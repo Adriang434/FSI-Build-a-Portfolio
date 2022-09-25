@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(204, 243, 247);
+  }
+  h1 {
+    color: rgb(42, 46, 47);
+  }
+  p {
+    color: rgb(23, 103, 100);
+  }
+  h2 {
+    color:rgb(26, 29, 28)
+  }
+ hr {
+    border-color: darkslategray;
+ }
+ h3 {
+    color:rgb(32, 64, 64)
+ }
+li {
+    color: rgb(37, 85, 69)
