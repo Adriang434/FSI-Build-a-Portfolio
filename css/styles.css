@@ -17,4 +17,14 @@ body {
     color:rgb(32, 64, 64)
  }
 li {
-    color: rgb(37, 85, 69)
+    color: rgb(37, 85, 69) }
+    img {
+      border-radius: 25%;
+    }
+   
+    style {
+      border-radius: 25%;
+    }
+    image {
+      border-color: black;
+    }
