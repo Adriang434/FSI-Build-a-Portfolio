@@ -1,18 +1,23 @@
-body {
+  body {
     background-color: rgb(204, 243, 247);
   }
+ 
   h1 {
     color: rgb(42, 46, 47);
   }
+ 
   p {
     color: rgb(23, 103, 100);
   }
+  
   h2 {
     color:rgb(26, 29, 28)
   }
- hr {
+
+  hr {
     border-color: darkslategray;
  }
+
  h3 {
     color:rgb(32, 64, 64)
  }
@@ -27,6 +32,7 @@ body {
     #polar-bear-2{
       width: 30%;
     }
+ 
     h1 {
       font-family: "Times New Roman", Times, serif;
     }
@@ -38,6 +44,11 @@ body {
     h2 {
       font-family: "Lucida Console", "Courier New", monospace;
     }
+   
     h3 {
       font-family: monospace
     }
+   
+    li{
+      cursor:pointer
+  }
